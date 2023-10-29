@@ -5,15 +5,15 @@
 
 #### 🛠️ Key Features
 
-**Categorized News**
+1. **Categorized News**
 - Users can explore news from various categories, including technology, sports, politics, entertainment, and more, enabling them to stay informed about their areas of interest.
-**Detailed News View**
+2. **Detailed News View**
 - Implemented a detailed news view that allows users to read the complete news articles with images, text, and related multimedia elements.
-**Search Functionality**
+3. **Search Functionality**
 - Integrated a robust search feature that enables users to search for specific news articles or topics of interest within the app.
-**Smooth User Experience**
+4. **Smooth User Experience**
 - Ensured a seamless and intuitive user experience with smooth navigation, appealing UI design, and responsive layouts that adapt to various screen sizes and orientations.
-**API Integration**
+5. **API Integration**
 - Integrated popular news APIs to fetch real-time news data, allowing users to access the latest information from reputable sources directly within the app.
 
 
